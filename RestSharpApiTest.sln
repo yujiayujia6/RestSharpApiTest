@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTest", "DemoTest\DemoTest.csproj", "{DEA8603D-0E72-4D90-BFA0-C970CABC713C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoTest", "DemoTest\DemoTest.csproj", "{DEA8603D-0E72-4D90-BFA0-C970CABC713C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpUtilities", "RestSharpUtilities\RestSharpUtilities.csproj", "{89E69CF0-1239-4D0B-A66E-E82DD4047DCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DEA8603D-0E72-4D90-BFA0-C970CABC713C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEA8603D-0E72-4D90-BFA0-C970CABC713C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEA8603D-0E72-4D90-BFA0-C970CABC713C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E69CF0-1239-4D0B-A66E-E82DD4047DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E69CF0-1239-4D0B-A66E-E82DD4047DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E69CF0-1239-4D0B-A66E-E82DD4047DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E69CF0-1239-4D0B-A66E-E82DD4047DCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

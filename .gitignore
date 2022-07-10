@@ -350,3 +350,6 @@ MigrationBackup/
 .ionide/
 DemoTest/bin
 DemoTest/obj
+packages
+RestSharpUtilities/bin
+RestSharpUtilities/obj
