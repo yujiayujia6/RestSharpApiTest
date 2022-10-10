@@ -21,7 +21,7 @@ namespace DemoTest.StepDefinitions
         [Then(@"validate user list get success")]
         public void ThenValidateUserListGetSuccess()
         {
-            // Console.WriteLine(response.ToString());
+            //Console.WriteLine(response);
             //TODO Assert.AreEqual("OK", statusCode);
         }
     }
